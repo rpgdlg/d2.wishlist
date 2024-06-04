@@ -1,0 +1,10 @@
+title:Root of nightmares
+description:ola
+
+// Furia de Rufus
+//notes: blabla. tags:pve
+dimwishlist:item=484515708&perks=839105230,1885400500,1563455254,2939589096
+
+// Desprecio de briar
+//notes: blabla. tags:pve
+dimwishlist:item=1491665733&perks=1482024992,1483536627,461595545,2402480669
